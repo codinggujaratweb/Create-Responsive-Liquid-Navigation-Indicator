@@ -1,5 +1,5 @@
 # 💧Liquid Navigation Menu Indicator
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Liquid-Navigation-Indicator/)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Liquid-Navigation-Indicator/)
 ### 💧Liquid Navigation Menu Indicator
 
 - Liquid Navigation Menu Indicator Using HTML CSS & JavaScript
